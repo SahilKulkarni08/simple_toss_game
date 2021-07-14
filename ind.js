@@ -1,4 +1,4 @@
-alert("1 choice fot head and 2 for tail.");
+alert("1 choice for head and 2 for tail.");
 var one=prompt("enter team 1 choice");
 var random= Math.floor(Math.random()*2)+1;
 var random1= "coin" + random +".png";
